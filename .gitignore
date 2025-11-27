@@ -1,6 +1,7 @@
 # Python virtual environment
 venv/
 .venv/
+api/.venv/
 
 # Bytecode
 __pycache__/
@@ -8,3 +9,4 @@ __pycache__/
 
 # Hidden files
 .DS_Store
+api/.DS_Store
