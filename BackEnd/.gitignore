@@ -1,2 +1,10 @@
-#Secrets
-.env
+# Python virtual environment
+venv/
+.venv/
+
+# Bytecode
+__pycache__/
+*.pyc
+
+# Hidden files
+.DS_Store
